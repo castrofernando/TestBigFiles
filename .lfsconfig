@@ -1,2 +1,2 @@
 [lfs]
-	url = http://localhost:8090/repository/myLfs/
+	url = http://localhost:8090/repository/myLfs/info/lfs
